@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "test",
-    "currentPage": "index.html",
+    "currentPage": "qr.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -89,7 +89,7 @@
         }
       ]
     },
-    "page1.html": {
+    "qr.html": {
       "settings": {
         "title": "qr",
         "order": 1
