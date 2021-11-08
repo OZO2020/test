@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-11-08_2306",
+    "name": "test",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -34,6 +34,25 @@
     "versionFirst": "5.4.1",
     "siteFonts": [],
     "imageResize": true,
+    "chatbutton": {},
+    "favicon": false,
+    "mbrsiteDomain": "f0gmxrbfng",
+    "cssOptimize": false,
+    "lazyLoad": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "pwa-switcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /\nDisallow: /qr\nDisallow: /index.html\n\n\n",
+    "PWA": {
+      "enabled": true,
+      "name": "CoronaCheck",
+      "icon": "@PROJECT_PATH@/assets/images/icon.ico",
+      "themeColor": "#6592e6"
+    },
     "uniqCompNum": 3,
     "versionPublish": "5.4.1"
   },
@@ -43,7 +62,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<meta name=”robots” content=”noindex” />\n",
         "footer_custom": "",
         "html_before": ""
       },
